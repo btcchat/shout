@@ -150,7 +150,7 @@ module.exports = {
 		// @type     string
 		// @default  ""
 		//
-		password: "",
+		password: "thanks",
 
 		//
 		// Enable TLS/SSL
@@ -166,7 +166,7 @@ module.exports = {
 		// @type     string
 		// @default  "shout-user"
 		//
-		nick: "shout-user",
+		nick: "btcchat-user",
 
 		//
 		// Username
@@ -174,7 +174,7 @@ module.exports = {
 		// @type     string
 		// @default  "shout-user"
 		//
-		username: "shout-user",
+		username: "btcchat-user",
 
 		//
 		// Real Name
@@ -182,7 +182,7 @@ module.exports = {
 		// @type     string
 		// @default  "Shout User"
 		//
-		realname: "Shout User",
+		realname: "Btcchat User",
 
 		//
 		// Channels
