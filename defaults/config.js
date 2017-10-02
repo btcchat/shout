@@ -166,7 +166,7 @@ module.exports = {
 		// @type     string
 		// @default  "shout-user"
 		//
-		nick: "shout-user",
+		nick: "btcchat-user",
 
 		//
 		// Username
@@ -174,7 +174,7 @@ module.exports = {
 		// @type     string
 		// @default  "shout-user"
 		//
-		username: "shout-user",
+		username: "btcchat-user",
 
 		//
 		// Real Name
@@ -190,7 +190,7 @@ module.exports = {
 		// @type     string
 		// @default  "#foo, #shout-irc"
 		//
-		join: "#foo, #shout-irc"
+		join: "#btcchat"
 	},
 
 	//
