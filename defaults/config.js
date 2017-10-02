@@ -134,7 +134,7 @@ module.exports = {
 		// @type     string
 		// @default  "irc.freenode.org"
 		//
-		host: "irc.freenode.net",
+		host: "irc.quakenet.org",
 
 		//
 		// Port
