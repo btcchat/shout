@@ -150,7 +150,7 @@ module.exports = {
 		// @type     string
 		// @default  ""
 		//
-		password: "thanks",
+		password: "",
 
 		//
 		// Enable TLS/SSL
